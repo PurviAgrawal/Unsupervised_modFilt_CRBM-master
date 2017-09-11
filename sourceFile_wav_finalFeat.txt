@@ -1,0 +1,4 @@
+wav_file/011c0201.wav modFilt_spec/011c0201.mat
+wav_file/011c0202.wav modFilt_spec/011c0202.mat
+wav_file/011c0203.wav modFilt_spec/011c0203.mat
+wav_file/011c0204.wav modFilt_spec/011c0204.mat
